@@ -1,0 +1,271 @@
+
+.nav-link, .navbar-brand, .nav-link{
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+}
+.nav-item{
+  margin:0 2.5rem;
+}
+.navbar, .intro{
+  background-color: #4dd599;
+}
+.navbar{
+  padding: 1% 5%;
+}
+
+.intro{
+  text-align: center;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  height:775px;
+}
+.earth_image{
+  height:500px;
+}
+.cloud{
+  height:100px;
+}
+.container-fluid{
+  padding-top: 0;
+}
+.name-called{
+  position:relative;
+  bottom: 25rem;
+  right:15rem;
+  font-family: 'Rubik Mono One';
+}
+.between-intro-skills{
+  border:dotted 10px;
+  border-bottom: 0;
+  line-height: 30px;
+  margin:auto 700px;
+  color:#4dd599;
+}
+.skills{
+  text-align: center;
+  padding:3% 5%;
+  font-family: 'Neucha';
+}
+.skill-items{
+  padding:4% 20px;
+}
+.web-dev{
+  padding-left:15px;
+}
+.architecture-image{
+  height:200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+.it-image{
+  background-color: white;
+  height:100px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+#experiences{
+  background-color: #4dd599;
+  padding:3% 5%;
+}
+.carousel-inner{
+  text-align: center;
+}
+.experience_header{
+  font-family: "Rubik Mono One";
+  font-size: 30px;
+}
+.architecture-description{
+  padding:2% 15%;
+  font-family: "Neucha";
+  font-size:35px;
+}
+.it-description{
+  padding:3.6% 15%;
+  font-family: "Neucha";
+  font-size:35px;
+}
+.tutoring-image{
+  height:200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+.tutoring-description{
+  padding:1.5% 15%;
+  font-family: "Neucha";
+  font-size:35px;
+}
+
+#contact{
+  text-align: center;
+  font-family: "Rubik Mono One";
+}
+.contact-questions{
+  padding: 4% 1%;
+}
+.hire-me{
+  font-size: 40px;
+}
+.life{
+  padding:0 2% 2%;
+}
+
+.row{
+  padding:5% 10%;
+}
+.profile-pic{
+  height:470px;
+  border-radius: 30%;
+}
+.my-introduction{
+  font-family: 'Neucha';
+  font-size:22px;
+}
+
+
+#footer{
+  text-align: center;
+  background-color: #4dd599;
+  padding:1%;
+}
+.footer-icons{
+  text-decoration: none;
+  padding:2px 3px;
+}
+.copyright{
+  margin-bottom: 0;
+}
+.project-row{
+  margin-top: 5rem;
+}
+.project-display{
+  text-align: center;
+}
+.card-body{
+  height:240px;
+}
+
+.cv-profile-image{
+  height: 200px;
+  margin-top: 150px;
+  border-radius: 100%
+}
+.business-card,.cv-first{
+  text-align: center;
+}
+.cv-passion{
+  padding:3% 20%;
+  font-family: 'Rubik Mono One';
+}
+.business-card{
+  border: inset 1px;
+  box-shadow: 10px 10px 5px grey;
+  margin: auto 28rem;
+}
+.business-card-content{
+  text-align: justify;
+  padding-left: 12px;
+}
+.card-icons{
+  padding-right: 10px;
+}
+
+.cv-line{
+  margin:30px;
+}
+.ed-heading{
+  text-align: center;
+  margin: 25px auto;
+  font-family: 'Rubik Mono One';
+  font-size: 50px;
+}
+.education-body{
+  margin: auto 100px;
+}
+
+.major-college{
+  border: solid #4dd599 1px;
+  border-radius: 100em;
+  background-color: #4dd599;
+  padding-left: 30px;
+}
+.sbu{
+  padding-top:120px;
+}
+.major-highschool{
+  border: solid #4dd599 1px;
+  border-radius: 100em;
+  background-color: #4dd599;
+  padding-left: 30px;
+}
+
+.between-education-skills{
+  margin: 25px auto;
+}
+.school{
+  font-family: 'Rubik Mono One';
+  font-size: 25px;
+}
+.course-work-heading{
+  padding: 20px;
+  font-family: 'Rubik Mono One';
+  font-size: 22px;
+}
+.classes{
+  font-family:'Courier Prime', monospace;
+}
+.class-specific{
+  padding-bottom:20px;
+}
+.sbu-logo{
+  height:250px;
+}
+.course-section{
+  padding-left: 115px;
+}
+.exp-heading{
+  text-align: center;
+  font-family: 'Rubik Mono One';
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+.cv-exp-body{
+  padding:2px 200px;
+}
+.internship-body{
+  font-family: 'Courier Prime', monospace;
+}
+.internship-heading{
+  font-family:'Rubik Mono One';
+}
+.skills-heading{
+  text-align: center;
+  font-family: 'Rubik Mono One';
+  font-size: 50px;
+}
+.skills-body{
+  padding:2px 200px;
+}
+.skills-body-header{
+  font-family:'Rubik Mono One';
+}
+.skill-item{
+  font-family: 'Tomorrow';
+}
+.skill-individual-section{
+  padding:10px 15px 20px;
+}
+.progress-bar{
+  background-color: #4dd599;
+}
+@media (max-width:976px){
+  .cloud{
+    position: relative;
+    top:30px;
+    padding-top: 20px;
+  }
+  .name-called{
+    position: relative;
+    left:0;
+    bottom:650px;
+  }
+}
