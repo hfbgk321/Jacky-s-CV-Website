@@ -1,0 +1,504 @@
+html, body{
+  width:100%;
+  overflow-x:hidden;
+}
+.nav-link, .navbar-brand, .nav-link{
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+}
+.nav-item{
+  margin:0 2.5rem;
+}
+.navbar, .intro{
+  background-color: #4dd599;
+}
+.navbar{
+  padding: 1% 5%;
+}
+
+.navfont{
+  font-family: 'Rubik Mono One';
+  font-weight: bold;
+}
+.intro{
+  text-align: center;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  height:775px;
+}
+
+.earth_image{
+  height:500px;
+}
+.cloud{
+  height:100px;
+}
+.container-fluid{
+  padding-top: 0;
+}
+.name-called{
+  position:relative;
+  bottom: 25rem;
+  right:15rem;
+  font-family: 'Rubik Mono One';
+}
+.between-intro-skills{
+  border:dotted 10px;
+  border-bottom: 0;
+  line-height: 30px;
+  margin:auto 700px;
+  color:#4dd599;
+}
+.skills{
+  text-align: center;
+  padding:3% 5%;
+  font-family: 'Neucha';
+}
+.skill-items{
+  padding:4% 20px;
+}
+.web-dev{
+  padding-left:15px;
+}
+.architecture-image{
+  height:200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+.it-image{
+  background-color: white;
+  height:100px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+#experiences{
+  background-color: #4dd599;
+  padding:3% 5%;
+}
+.carousel-inner{
+  text-align: center;
+}
+.experience_header{
+  font-family: "Rubik Mono One";
+  font-size: 30px;
+}
+.architecture-description{
+  padding:2% 15%;
+  font-family: "Neucha";
+  font-size:35px;
+}
+.it-description{
+  padding:3.6% 15%;
+  font-family: "Neucha";
+  font-size:35px;
+}
+.tutoring-image{
+  height:200px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px grey;
+}
+.tutoring-description{
+  padding:1.5% 15%;
+  font-family: "Neucha";
+  font-size:35px;
+}
+
+#contact{
+  text-align: center;
+  font-family: "Rubik Mono One";
+}
+.contact-questions{
+  padding: 4% 1%;
+}
+.hire-me{
+  font-size: 40px;
+}
+.life{
+  padding:0 2% 2%;
+}
+
+.row{
+  padding:5% 10%;
+}
+.profile-pic{
+  height:470px;
+  border-radius: 30%;
+}
+.my-introduction{
+  font-family: 'Neucha';
+  font-size:22px;
+}
+
+
+#footer{
+  text-align: center;
+  background-color: #4dd599;
+  padding:1%;
+}
+.footer-icons{
+  text-decoration: none;
+  padding:2px 3px;
+}
+.copyright{
+  margin-bottom: 0;
+}
+.project-row{
+  margin-top: 5rem;
+}
+.project-display{
+  text-align: center;
+}
+.card-body{
+  height:240px;
+}
+
+.cv-profile-image{
+  height: 200px;
+  margin-top: 150px;
+  border-radius: 100%
+}
+.business-card,.cv-first{
+  text-align: center;
+}
+.cv-passion{
+  padding:3% 20%;
+  font-family: 'Rubik Mono One';
+}
+.business-card{
+  border: inset 1px;
+  box-shadow: 13px 10px 5px grey;
+  margin: auto 28rem;
+}
+.business-card-content{
+  text-align: justify;
+  padding-left: 12px;
+}
+.card-icons{
+  padding-right: 10px;
+}
+
+.cv-line{
+  margin:30px;
+}
+.ed-heading{
+  text-align: center;
+  margin: 25px auto;
+  font-family: 'Rubik Mono One';
+  font-size: 50px;
+}
+.education-body{
+  margin: auto 100px;
+}
+
+.major-college{
+  border: solid #4dd599 1px;
+  border-radius: 100em;
+  background-color: #4dd599;
+  padding-left: 30px;
+}
+.sbu{
+  padding-top:120px;
+}
+.major-highschool{
+  border: solid #4dd599 1px;
+  border-radius: 100em;
+  background-color: #4dd599;
+  padding-left: 30px;
+}
+
+.between-education-skills{
+  margin: 25px auto;
+}
+.school{
+  font-family: 'Rubik Mono One';
+  font-size: 25px;
+}
+.course-work-heading{
+  padding: 20px;
+  font-family: 'Rubik Mono One';
+  font-size: 22px;
+}
+.classes{
+  font-family:'Courier Prime', monospace;
+}
+.class-specific{
+  padding-bottom:20px;
+}
+.sbu-logo{
+  height:250px;
+}
+.course-section{
+  padding-left: 115px;
+}
+.exp-heading{
+  text-align: center;
+  font-family: 'Rubik Mono One';
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+.cv-exp-body{
+  padding:2px 200px;
+}
+.internship-body{
+  font-family: 'Courier Prime', monospace;
+}
+.internship-heading{
+  font-family:'Rubik Mono One';
+}
+.skills-heading{
+  text-align: center;
+  font-family: 'Rubik Mono One';
+  font-size: 50px;
+}
+.skills-body{
+  padding:2px 200px;
+}
+.skills-body-header{
+  font-family:'Rubik Mono One';
+}
+.skill-item{
+  font-family: 'Tomorrow';
+}
+.skill-individual-section{
+  padding:10px 15px 20px;
+}
+.progress-bar{
+  background-color: #4dd599;
+}
+
+@media (max-width: 1090px){
+  /* earth section */
+  body,html{
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+  .intro{
+    height:100vh;
+    padding-top:220px;
+  }
+  .earth_image{
+    position:relative;
+    height: 850px;
+    top:200px;
+  }
+  .cloud{
+    position:relative;
+    top:300px;
+    height:200px;
+    bottom: 100px;
+  }
+  .name-called{
+    font-size: 50px;
+    position: relative;
+    bottom:900px;
+    left:14px;
+  }
+  .navbar{
+    height:100px;
+    padding:25px 20px 100px;
+  }
+  .navbar-toggler-icon{
+    padding: 35px;
+  }
+
+  /* about me section */
+
+  .About-me{
+    height:100vh;
+    padding-bottom:10px;
+  }
+
+  .profile-pic{
+    margin-left: 150px;
+    padding-bottom:30px;
+    margin-bottom: 30px
+  }
+
+  .my-introduction{
+    font-size: 39px;
+  }
+  .between-intro-skills{
+    margin:180px 100px 30px;
+  }
+
+  /* skills section */
+  .home-skills-section{
+    height:100vh;
+
+  }
+  .skill-intro{
+    font-family: 'Rubik Mono One';
+    font-size: 80px;
+    margin-top:40px;
+  }
+
+  .home-skill-experience_header{
+    font-size:60px;
+  }
+
+  .java{
+    position: relative;
+    left: 190px;
+    padding-bottom: 50px;
+  }
+  .python{
+    position: relative;
+    right:180px;
+    top:300px;
+    padding-bottom: 200px;
+  }
+  .web{
+    position: relative;
+    left: 190px;
+    padding-bottom: 500px;
+    top:200px;
+  }
+  .framework{
+    position: relative;
+    top:650px;
+    right:180px;
+  }
+  .fab, .fas,.far{
+    font-size: 100px !important;
+  }
+  /* project section */
+
+  #experiences{
+    height:100vh;
+  }
+
+  .experience_header{
+    font-size: 50px;
+  }
+
+  .carousel-inner{
+    position:relative;
+    top:350px;
+  }
+  .carousel-item{
+    padding-top: 130px;
+  }
+  .architecture-image, .it-image,.tutoring-image {
+    position:relative;
+    bottom:100px;
+    height:400px;
+  }
+  .it-image{
+    height:200px;
+  }
+
+  .architecture-description, .it-description, .tutoring-description{
+    text-align: justify;
+    padding-bottom:80px;
+    font-size: 50px;
+  }
+
+  /* Projects Section */
+
+  .project-display{
+    position: relative;
+    left:50px;
+    height:100vh;
+    padding-top:100px;
+  }
+  .middle-projects-bj{
+    padding-top: 30px;
+    padding-right:85px;
+  }
+  .middle-projects-pg{
+    padding-top: 30px;
+  }
+
+  /* CV Section */
+  #cv-introduction{
+    height:100vh;
+  }
+  .cv-profile-image{
+    padding:40px 3px 50px;
+    height:700px;
+  }
+  .business-card{
+    position:relative;
+    margin: auto 4rem;
+    top:70px;
+  }
+
+  /* Education section */
+  #education{
+    height:100vh;
+  }
+  .ed-heading{
+    font-size: 80px;
+  }
+  .sbu-logo{
+    position:relative;
+    left:70px;
+  }
+  .school{
+    font-size:35px;
+  }
+  .major-college, .major-highschool{
+    font-family:'Tomorrow';
+  }
+  .sbu{
+    padding-top: 60px;
+  }
+  .class-specific{
+    font-size:25px;
+    font-weight: 400;
+  }
+  .ed-row{
+    padding-bottom:0;
+  }
+  .btechlogo{
+    position:relative;
+    left:70px;
+    top:40px;
+  }
+  .btech{
+    padding-top: 60px;
+  }
+
+  /* experience section cv */
+  #cv-experience-section{
+    height: 100vh;
+  }
+  .exp-heading{
+    position:relative;
+    bottom: 150px;
+    font-size:80px;
+  }
+  .cv-exp-body{
+    position: relative;
+    bottom:130px;
+    font-size:28px;
+    padding:2px 125px
+  }
+
+  .internship-body{
+    padding:30px 2px;
+  }
+
+  /* skills section */
+  #skills{
+    height:100vh;
+  }
+
+  .skills-heading{
+    font-size: 80px;
+    padding-bottom: 50px;
+  }
+  .skills-body-header{
+    font-size: 40px;
+  }
+  .skills-part-1,.skills-part-2,.skills-part-3{
+    padding-bottom: 80px;
+  }
+  .skill-item{
+    padding:15px 2px;
+  }
+
+
+
+}
+  /* mobile view for home page */
