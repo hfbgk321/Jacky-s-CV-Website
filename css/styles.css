@@ -16,6 +16,10 @@ html, body{
   padding: 1% 5%;
 }
 
+.navfont{
+  font-family: 'Rubik Mono One';
+  font-weight: bold;
+}
 .intro{
   text-align: center;
   padding-top: 10rem;
@@ -307,14 +311,14 @@ html, body{
   .profile-pic{
     margin-left: 150px;
     padding-bottom:30px;
+    margin-bottom: 30px
   }
 
   .my-introduction{
     font-size: 39px;
   }
   .between-intro-skills{
-    padding-top:0;
-    margin:auto 100px;
+    margin:180px 100px 30px;
   }
 
   /* skills section */
